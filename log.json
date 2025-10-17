@@ -1,0 +1,38 @@
+[
+    {
+        "original_email": "chat",
+        "llm_response": {
+            "timestamp": "2025-10-03T08:23:26.559157Z",
+            "classification": "general",
+            "subject": "Regarding your message",
+            "body": "Hello,Thank you for your message. Please provide more details so we can assist you further.Best regards,EasyAgents support team"
+        }
+    },
+    {
+        "original_email": "what is json?",
+        "llm_response": {
+            "timestamp": "2025-10-03T08:24:03.875421Z",
+            "classification": "general",
+            "subject": "Information Regarding JSON",
+            "body": "Dear User,Thank you for reaching out. JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write and easy for machines to parse and generate. It is commonly used for transmitting data between a server and a web application.Best regards,EasyAgents support team"
+        }
+    },
+    {
+        "original_email": "how to make website",
+        "llm_response": {
+            "timestamp": "2025-10-03T08:24:25.823513Z",
+            "classification": "support",
+            "subject": "Information on Website Creation",
+            "body": "Hello,Thank you for contacting EasyAgents. We'd be happy to guide you on how to make a website. To help us provide the best advice, could you please share more details about the type of website you're looking to create or what your specific goals are? We're here to help!EasyAgents support team"
+        }
+    },
+    {
+        "original_email": "can you make python code to create simple marketing website",
+        "llm_response": {
+            "timestamp": "2025-10-03T08:25:07.426625Z",
+            "classification": "general",
+            "subject": "Regarding your marketing website inquiry",
+            "body": "Thank you for your inquiry! We'd be happy to discuss your needs for a simple marketing website created with Python. To help us understand your requirements better, could you please provide more details about the features and functionality you're envisioning?EasyAgents support team"
+        }
+    }
+]
